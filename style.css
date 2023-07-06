@@ -1,0 +1,59 @@
+.fs-7 {
+    font-size: 0.813rem;
+}
+
+.fs-0 {
+    font-size: 3rem;
+}
+
+.w-beneficios {
+    width: 325px;
+}
+
+.h-beneficios {
+    height: 70px;
+}
+
+.text-wine {
+    color: #a20000;
+}
+
+.btn-wine {
+    background-color: #a20000;
+    color: #f8f9fa;
+}
+
+.btn-wine:hover {
+    background-color: #e30000;
+    color: #f8f9fa;
+}
+
+.btn-wine:active {
+    background-color: #e30000 !important;
+    color: #f8f9fa !important;
+}
+
+.btn-wine:focus-visible {
+    background-color: #e30000;
+    color: #f8f9fa;
+}
+
+.ff-ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.w-max-1 {
+    max-width: 325px;
+}
+
+@media screen and (min-width: 768px) {
+    .w-max-1 {
+        max-width: 470px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .w-max-1 {
+        max-width: 550px;
+    }
+}
